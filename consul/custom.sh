@@ -1,5 +1,16 @@
 #!/bin/bash
 
+: '
+* Copyright (C) CloudHedge Technologies Private Limited - All Rights Reserved
+
+* Unauthorized copying of this file, via any medium is strictly prohibited
+
+* Proprietary and Confidential
+
+* CloueHedgeAuthor
+
+*/'
+
 service=dnsmasq
 
 # export DNSENTRIES="server=/consul/127.0.0.1#8600"
