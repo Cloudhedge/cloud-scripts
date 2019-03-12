@@ -4,7 +4,9 @@
 # Copyright (C) CloudHedge Technologies Private Limited - All Rights Reserved
 # Unauthorized copying of this file, via any medium is strictly prohibited
 # Proprietary and Confidential
-# CloudHedgeAuthor
+# @author Ameya Varade <avarade@cloudhedge.io>
+# @author Anand Karwa <akarwa@cloudhedge.io>
+# @author Bhushan Gholave <bgholave@cloudhedge.io>
 
 
 service=dnsmasq
